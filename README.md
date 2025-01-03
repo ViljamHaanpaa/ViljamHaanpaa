@@ -1,4 +1,4 @@
-# Hello there, I'm [@viljam haanpaa](https://www.linkedin.com/in/viljam-haanp%C3%A4%C3%A4-4b05a4287/)
+# Hello there, I'm [@Viljam Haanpaa](https://www.linkedin.com/in/viljam-haanp%C3%A4%C3%A4-4b05a4287/)
 
 💻 **Tech Stack**:
 
