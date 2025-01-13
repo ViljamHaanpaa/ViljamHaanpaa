@@ -24,5 +24,13 @@
 ---
 # 📊 GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ViljamHaanpaa&theme=dark&hide_border=true&border_radius=20&card_width=498&fire=FFBF00&background=60%2C000000%2C2E2E2EB6&ring=FFBF00&currStreakLabel=FFBF00)](https://git.io/streak-stats)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ViljamHaanpaa&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ### Daily Quote
-*Code all day, bug at night, still convinced I’m doing it right.*
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
+---
+
